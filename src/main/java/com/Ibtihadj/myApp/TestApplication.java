@@ -1,4 +1,4 @@
-package com.Ibtihadj.Test;
+package com.Ibtihadj.myApp;
 
 import org.keycloak.adapters.springsecurity.client.KeycloakClientRequestFactory;
 import org.keycloak.adapters.springsecurity.client.KeycloakRestTemplate;

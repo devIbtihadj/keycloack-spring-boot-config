@@ -1,4 +1,4 @@
-package com.Ibtihadj.Test;
+package com.Ibtihadj.myApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

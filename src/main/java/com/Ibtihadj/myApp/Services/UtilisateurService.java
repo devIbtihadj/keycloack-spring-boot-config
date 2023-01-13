@@ -1,6 +1,6 @@
-package com.Ibtihadj.Test.Services;
+package com.Ibtihadj.myApp.Services;
 
-import com.Ibtihadj.Test.Entities.Utilisateur;
+import com.Ibtihadj.myApp.Entities.Utilisateur;
 
 import java.util.List;
 

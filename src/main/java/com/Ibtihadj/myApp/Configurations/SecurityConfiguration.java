@@ -1,4 +1,4 @@
-package com.Ibtihadj.Test.Configurations;
+package com.Ibtihadj.myApp.Configurations;
 
 import org.keycloak.adapters.springsecurity.KeycloakConfiguration;
 import org.keycloak.adapters.springsecurity.KeycloakSecurityComponents;
